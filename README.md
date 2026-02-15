@@ -366,13 +366,7 @@ pytest tests/test_models.py -v
 }
 ```
 
-## References
 
-[1] Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. *KDD*.  
-[2] Ke, G., et al. (2017). LightGBM: A highly efficient gradient boosting decision tree. *NeurIPS*.  
-[3] Prokhorenkova, L., et al. (2018). CatBoost: unbiased boosting with categorical features. *NeurIPS*.  
-[4] Chawla, N. V., et al. (2002). SMOTE: Synthetic minority over-sampling technique. *JAIR*.  
-[5] Lundberg, S. M., & Lee, S. I. (2017). A unified approach to interpreting model predictions. *NeurIPS*.
 
 ## License
 
